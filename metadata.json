@@ -1,0 +1,6 @@
+{
+  "name": "StegoVault - Ẩn & Trích Xuất Thông Điệp Trong Ảnh",
+  "description": "Ứng dụng giấu văn bản bí mật vào hình ảnh bằng kỹ thuật Steganography LSB và trích xuất thông điệp an toàn, trực quan, hỗ trợ tiếng Việt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
